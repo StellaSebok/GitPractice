@@ -1,6 +1,6 @@
 public class Cheers {
 
-    public void cheers(String className){
-        System.out.println("Hello " + className + "!");
+    public void cheers(String language{
+        System.out.println("Hello" + language + "!");
     }
 }
