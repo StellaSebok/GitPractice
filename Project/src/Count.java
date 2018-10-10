@@ -1,6 +1,6 @@
 public class Count {
 
-    public void count(int monthNumber) {
-        System.out.println(monthNumber);
+    public void count(int num1, int num2) {
+        System.out.println(num1-num2);
     }
 }
