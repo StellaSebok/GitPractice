@@ -1,6 +1,6 @@
 public class Count {
 
-    public void count(int monthNumber) {
-        System.out.println(monthNumber);
+    public void count() {
+        System.out.println("Counting the countless parameter");
     }
 }
