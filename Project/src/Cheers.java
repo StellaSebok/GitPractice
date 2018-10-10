@@ -1,6 +1,6 @@
 public class Cheers {
 
-    public void cheers(){
-        System.out.println("Best Automation");
+    public void cheers(String className){
+        System.out.println("Hello " + className + "!");
     }
 }
